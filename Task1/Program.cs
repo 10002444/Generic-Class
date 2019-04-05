@@ -21,9 +21,8 @@ namespace Generics
                 Console.WriteLine("They are the same");
             else
                 Console.WriteLine("They are different");
-
-
         }
+
         class GenericClass<T, Z>
         {
             public bool Comparison(T input1, Z input2)
