@@ -37,7 +37,6 @@ namespace Task2
                 return true;
             else
                 return false;
-
         }
     }
 }
