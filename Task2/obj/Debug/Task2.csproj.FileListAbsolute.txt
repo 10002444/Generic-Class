@@ -11,3 +11,10 @@ H:\Desktop\6211 - Jacob\GenericClass\Task2\obj\Debug\Task2.csprojAssemblyReferen
 H:\Desktop\6211 - Jacob\GenericClass\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
 H:\Desktop\6211 - Jacob\GenericClass\Task2\obj\Debug\Task2.exe
 H:\Desktop\6211 - Jacob\GenericClass\Task2\obj\Debug\Task2.pdb
+H:\Desktop\6211 - Jacob\Generic-Class\Task2\bin\Debug\Task2.exe.config
+H:\Desktop\6211 - Jacob\Generic-Class\Task2\bin\Debug\Task2.exe
+H:\Desktop\6211 - Jacob\Generic-Class\Task2\bin\Debug\Task2.pdb
+H:\Desktop\6211 - Jacob\Generic-Class\Task2\obj\Debug\Task2.csprojAssemblyReference.cache
+H:\Desktop\6211 - Jacob\Generic-Class\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+H:\Desktop\6211 - Jacob\Generic-Class\Task2\obj\Debug\Task2.exe
+H:\Desktop\6211 - Jacob\Generic-Class\Task2\obj\Debug\Task2.pdb
